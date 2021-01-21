@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: vinit_sutar.github.io
+title: Vinit's Portfolio
 
 # Your name to show in the footer
 author: Vinit Sutar
@@ -40,7 +40,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  facebook: https://www.facebook.com/BloodStainedPainkiller
+  facebook: BloodStainedPainkiller
   github: daattali
   twitter: daattali
   patreon: DeanAttali
