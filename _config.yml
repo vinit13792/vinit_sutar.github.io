@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: vinit_sutar
 
 # Your name to show in the footer
-author: Some Person
+author: Vinit Sutar
 
 # --- List of links in the navigation bar --- #
 
@@ -40,7 +40,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
+  facebook: https://www.facebook.com/BloodStainedPainkiller
   github: daattali
   twitter: daattali
   patreon: DeanAttali
