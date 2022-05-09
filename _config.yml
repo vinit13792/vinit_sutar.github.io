@@ -39,19 +39,19 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: BloodStainedPainkiller
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  #email: "someone@example.com"
+  #facebook: BloodStainedPainkiller
+  github: vinit13792
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: c/daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: vinitsutar
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  stackoverflow: "10632473/the-learning-child"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  spotify: yourname
+  spotify: vinitcrab
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -70,9 +70,12 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
+  stackoverflow: true
+  spotify: true
+  github: true
   vk: false
 
 # How to display the link to your website in the footer
